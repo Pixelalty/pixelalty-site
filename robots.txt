@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /order-complete.html
+Disallow: /intake.html
+
+Sitemap: https://pixelalty.com/sitemap.xml

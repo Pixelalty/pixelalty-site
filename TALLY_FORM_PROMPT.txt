@@ -1,0 +1,78 @@
+PIXELALTY CLIENT INTAKE FORM
+
+Create a professional multi-page intake form for a digital service called Pixelalty. Pixelalty creates a $499 real-estate listing marketing video from photos and information supplied by the realtor/agent/customer.
+
+The form is ONLY for customers who have already paid.
+
+Use a progress bar. Keep the design clean and professional. Make required fields clearly required. Add a short introduction explaining that production begins after all required usable materials are received.
+
+PAGE 1 — ORDER / CLIENT DETAILS
+- Full name (required)
+- Email address (required)
+- Phone number (required)
+- Real estate agency / brokerage name (required)
+- Property address (required)
+- Listing URL (required if available; otherwise allow “not yet live”)
+- MLS number (optional)
+
+PAGE 2 — PROPERTY INFORMATION
+- Listing price (required)
+- Bedrooms (required)
+- Bathrooms (required)
+- Square footage (required)
+- Property type (single family, condo, townhome, land, other)
+- Key selling features (long text, required)
+- Important property details or disclaimers that must appear (long text, optional)
+- Exact agent name/title to display (optional)
+- Agent phone number to display (optional)
+- Agent email to display (optional)
+- Brokerage name to display (optional)
+
+PAGE 3 — CREATIVE DIRECTION
+- Desired style: Luxury / Modern / Energetic / Minimal / Warm / Other
+- Primary platform: Instagram Reels / Facebook / YouTube Shorts / Website / Other
+- Preferred orientation: Vertical 9:16 / Horizontal 16:9 / No preference
+- Desired approximate length: 30 sec / 45 sec / 60 sec / No preference
+- Specific text, slogans, or call-to-action to include (long text)
+- Music preference: Upbeat / Luxury / Cinematic / Minimal / No preference
+- Special instructions (long text)
+
+PAGE 4 — FILE UPLOADS
+Add file-upload fields:
+- Listing photos (required, multiple files, image formats)
+- Agent or brokerage logo (optional)
+- Agent headshot (optional)
+- Other brand assets or reference files (optional)
+
+Add a note: Free Tally accounts limit each individual uploaded file to 10 MB. If a source file is larger, the customer should provide a private Google Drive, Dropbox, OneDrive, or other authorized download link in the next field.
+- External asset folder / download link (optional)
+
+PAGE 5 — RIGHTS / AUTHORIZATION
+Required checkbox:
+“I confirm that I own the materials I am submitting or have permission from the applicable photographer, brokerage, homeowner, MLS provider, or other rights holder to use them for this project, and I authorize Pixelalty to process and edit them to create my commissioned listing video.”
+
+Required checkbox:
+“I confirm that the property facts, pricing, contact information, disclosures, and other information I supplied are accurate to the best of my knowledge.”
+
+Required checkbox:
+“I understand that the $499 package includes one consolidated revision round and that major scope changes or additional revisions may require a separate quote.”
+
+Required checkbox:
+“I have reviewed and agree to Pixelalty’s Terms of Service and Refund Policy at https://pixelalty.com/terms.html and https://pixelalty.com/refund-policy.html.”
+
+PAGE 6 — FINAL REVIEW
+Display a short summary reminding the customer:
+- Pixelalty will review the submission.
+- Production starts after complete usable materials are received.
+- Pixelalty may contact them if files or information are missing.
+- One revision round is included.
+- Final files are delivered digitally through a private link.
+
+Final submit button text: “Submit Project Materials”
+
+THANK YOU PAGE
+Title: “Your materials are in.”
+Message: “Pixelalty has received your project information. Keep an eye on the email/phone information you supplied in case we need clarification. Please retain your Stripe receipt for your records.”
+
+Turn on self-email notifications for new submissions.
+Do not require respondents to create a Tally account.
